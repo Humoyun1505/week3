@@ -1,5 +1,5 @@
 print("\n--- Ticket Pricer ---")
-age = int(input("Please enter ypur age:"))
+age = int(input("Please enter your age:"))
 
 if age <= 12:
     print (" You fall into the 'Children' category.")
